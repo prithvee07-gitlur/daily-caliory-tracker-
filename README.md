@@ -39,3 +39,7 @@ Average Calories
 Daily Limit
 
 Final Status (Over or Under limit)
+
+
+
+
