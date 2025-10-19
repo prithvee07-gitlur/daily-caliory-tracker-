@@ -1,0 +1,28 @@
+--- Calorie Session Log ---
+Timestamp: 2025-10-19 17:36:53
+------------------------------
+break 330.0
+lunch 450.0
+dinner 1000.0
+------------------------------
+Total Calories: 1780.00
+Average Calories: 593.33
+Daily Limit: 2000.00
+Status: Under limit by 220.00 calories.
+------------------------------
+
+#TEST RUN - 2#
+
+--- Calorie Session Log ---
+Timestamp: 2025-10-19 17:40:04
+------------------------------
+milk 35.0
+fruits 25.0
+bread 105.0
+------------------------------
+Total Calories: 165.00
+Average Calories: 55.00
+Daily Limit: 150.00
+Status: Over limit by 15.00 calories.
+------------------------------
+
