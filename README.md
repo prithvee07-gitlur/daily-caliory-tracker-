@@ -23,6 +23,8 @@ The script is straightforward and executes sequentially:
 4.Calculations: Computes the total and avg calories, and asks for the limit.
 5.Report Generation: Prints the formatted "Calorie Report," including the over/under status with clear warnings/success messages.
 6.Log File Handling: Asks the user to save the session. If confirmed, it appends the current session's data to the calorie.txt file.
+
+
 📜 Log File (calorie.txt)
 The calorie.txt file is used to maintain a historical record of all saved sessions. Each session is appended with a timestamp and includes all critical information:
 
